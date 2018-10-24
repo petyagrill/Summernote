@@ -1,0 +1,5 @@
+Changelog for Summernote.
+
+1.0.0-beta
+==============
+- First beta release
